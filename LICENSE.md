@@ -1,4 +1,4 @@
-
+smart Addon for ClickUp for macOS - task automation and dark mode is the best ClickUp for macOS addon, featuring task automation and dark mode. Safe, efficient, and optimized for
 
 
 
